@@ -1,0 +1,5 @@
+package com.springboot.springcore.config;
+
+public class SwimConfig {
+
+}

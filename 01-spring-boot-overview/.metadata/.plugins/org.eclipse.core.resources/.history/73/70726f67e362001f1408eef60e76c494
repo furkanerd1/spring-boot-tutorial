@@ -1,0 +1,18 @@
+spring.application.name=myapp
+#props
+coach.name=Furkan
+
+#Actuator props
+management.endpoints.web.exposure.include=health,info
+management.info.env.enabled=true
+
+#info
+info.app.name=My super cool app
+info.app.description=A crazy app!
+info.app.version=1.0.0
+
+
+# Use wildcard "*" to expose all endpoints
+# Can also expose individual endpoints with a comma-delimited list
+management.endpoints.web.exposure.include=*
+management.info.env.enabled=true

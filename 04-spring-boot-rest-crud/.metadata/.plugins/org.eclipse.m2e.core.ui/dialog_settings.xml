@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

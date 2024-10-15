@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\.metadata\.plugins\org.eclipse.jdt.core
+3025104473.index
+3170000320.index
+942484760.index
+3031705082.index
+80691297.index
+69489242.index
+1865797976.index
+2707021178.index
+528525799.index
+3231351375.index
+3387845718.index
+3241410058.index
+3640152906.index
+1416777977.index
+2933651814.index
+377875049.index
+4109283279.index
+4294913465.index
+4166854485.index

@@ -1,0 +1,13 @@
+package com.example.cruddemo.dao;
+
+import com.example.cruddemo.entity.Student;
+
+public class StudentDAOImpl implements StudentDAO {
+
+	
+	@Override
+	public void save(Student student) {
+
+	}
+
+}

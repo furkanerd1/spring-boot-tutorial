@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\09-java-config-bean"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\08-bean-lifecycle-methods"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\07-bean-scopes"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\06-lazy-initialization"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\05-primary"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\04-qualifiers"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\03-setter-injection"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\02-component-scanning"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\02-spring-boot-spring-core\01-constructor-injection"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

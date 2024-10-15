@@ -1,0 +1,11 @@
+package com.springboot.springcore.common;
+
+public class baseballCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+	
+	}
+
+	
+}

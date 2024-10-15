@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>INPUT-STUDENT</title>
+</head>
+<body>
+<h3>Student Registration Form</h3>
+
+<form th:action="@{/showStudent}" th:object="${student}" method="post">
+
+First Name : <input type="text"  th:field="${student.firstName}" >
+<br><br>
+Last Name : <input type="text"  th:field="${student.lastName}" >
+<br><br>
+
+Country :  <select th:field="${student.country}"  >
+    <option th:value="France">France</option>
+    <option th:value="Germany">Germany</option>
+    <option th:value="Türkiye">Türkiye</option>
+    <option th:value="India">India</option>
+
+</select>
+    <br><br>
+Favorite Programming Language :
+    <input type="radio" th:field="${student.favoriteLanguage}" th:value="Go" > Go </input>
+    <input type="radio" th:field="${student.favoriteLanguage}" th:value="Javascript" > JavaScript </input>
+    <input type="radio" th:field="${student.favoriteLanguage}" th:value="Java" > Java</input>
+    <input type="radio" th:field="${student.favoriteLanguage}" th:value="Python" > Python </input>
+
+    <br><br>
+Favorite Operating System :
+    <input type="checkbox" th:field="${student.favoriteSystems}" th:value="macOS"> macOS</input>
+    <input type="checkbox" th:field="${student.favoriteSystems}" th:value="Linux"> Linux</input>
+     <!-- Because of space of value - we need to use '' -->
+    <input type="checkbox" th:field="${student.favoriteSystems}" th:value="'Microsoft Windows'"> Microsoft Windows</input>
+  <br><br>
+<input type="submit" value="Submit">
+
+</form>
+</body>
+</html>

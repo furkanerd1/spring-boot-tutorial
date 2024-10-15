@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\05-spring-boot-rest-security\02-spring-boot-rest-security-jdbc-bcrypt-custom-table-names"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\05-spring-boot-rest-security\01-spring-boot-rest-security-jdbc-plain-text"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\05-spring-boot-rest-security\00-spring-boot-rest-security-employee-starter-code"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

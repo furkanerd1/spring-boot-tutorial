@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\06-properties-demo"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\01-spring-boot-demo"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\05-command-line-demo"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\04-actuator-security-demo"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\03-actuator-demo"/>
+			<item value="C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\01-spring-boot-overview\02-dev-tools-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

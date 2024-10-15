@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.example.springrestcrud.rest.StudentErrorRespone.java&apos; to &apos;StudentErrorResponse.java&apos;&#x0D;&#x0A;- Original project: &apos;02-spring-boot-rest-crud-students-exception-handling&apos;&#x0D;&#x0A;- Original element: &apos;com.example.springrestcrud.rest.StudentErrorRespone.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.springrestcrud.rest.StudentErrorResponse.java&apos;" description="Rename compilation unit &apos;StudentErrorRespone.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.springrestcrud.rest{StudentErrorRespone.java" name="StudentErrorResponse.java" references="false" stamp="1725797509232" version="1.0"/>
+</session>

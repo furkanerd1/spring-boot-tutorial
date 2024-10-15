@@ -1,0 +1,26 @@
+package com.example.cruddemo.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.example.cruddemo.entity.Student;
+
+import jakarta.persistence.EntityManager;
+import lombok.AllArgsConstructor;
+
+@Repository
+public class StudentDAOImpl implements StudentDAO {
+ 
+	private EntityManager entityManager;
+	
+	@Autowired
+	public StudentDAOImpl(EntityManager entityManager) {
+		this.entityManager = entityManager;
+	}
+
+	@Override
+	public void save(Student student) {
+
+	}
+
+}

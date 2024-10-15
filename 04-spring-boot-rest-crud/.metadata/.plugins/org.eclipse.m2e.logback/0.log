@@ -1,0 +1,519 @@
+2024-09-08 14:02:05,690 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-08 14:09:15,196 [Worker-38: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springrestcrud:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\pom.xml.
+2024-09-08 14:09:17,087 [Worker-38: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-spring-boot-rest-crud/src/main/java
+2024-09-08 14:09:17,089 [Worker-38: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-spring-boot-rest-crud/src/main/resources
+2024-09-08 14:09:17,094 [Worker-38: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-spring-boot-rest-crud/src/main/resources
+2024-09-08 14:09:17,100 [Worker-38: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-spring-boot-rest-crud/src/test/java
+2024-09-08 14:09:17,101 [Worker-38: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-spring-boot-rest-crud/src/test/resources
+2024-09-08 14:09:18,310 [Worker-38: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-09-08 14:09:23,115 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:09:23,271 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:09:23,291 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:09:45,510 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:09:45,520 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:09:45,527 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:11:31,353 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:11:31,369 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:11:31,381 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:11:43,240 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:11:43,244 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:11:43,246 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:12:04,239 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:12:04,244 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:12:04,246 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:16:51,635 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:16:51,642 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:16:51,645 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:17:56,175 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:17:56,180 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:17:56,183 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:18:02,042 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:18:02,047 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:18:02,052 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:18:07,355 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:18:07,359 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:18:07,361 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:18:31,269 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:18:31,305 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:18:31,316 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:31:30,809 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:31:30,817 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:31:30,820 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:33:51,938 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:33:51,944 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:33:51,947 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:34:12,267 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:34:12,272 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:34:12,275 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:35:26,621 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:35:26,630 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:35:26,633 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:36:31,886 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:36:31,895 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:36:31,899 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 14:37:11,458 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 14:37:11,463 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 14:37:11,467 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src\test\resources
+2024-09-08 15:07:58,056 [Worker-46: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springrestcrud:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\pom.xml.
+2024-09-08 15:07:59,246 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-spring-boot-rest-crud-students-exception-handling/src/main/java
+2024-09-08 15:07:59,247 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-spring-boot-rest-crud-students-exception-handling/src/main/resources
+2024-09-08 15:07:59,249 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-spring-boot-rest-crud-students-exception-handling/src/main/resources
+2024-09-08 15:07:59,250 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-spring-boot-rest-crud-students-exception-handling/src/test/java
+2024-09-08 15:07:59,252 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-spring-boot-rest-crud-students-exception-handling/src/test/resources
+2024-09-08 15:07:59,505 [Worker-46: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-09-08 15:08:00,685 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:08:00,858 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:08:00,867 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:10:52,657 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:10:52,678 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:10:52,687 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:11:20,309 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:11:20,315 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:11:20,317 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:11:29,566 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:11:29,571 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:11:29,575 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:11:39,496 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:11:39,499 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:11:39,501 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:11:49,493 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:11:49,511 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:11:49,513 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:11:58,263 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:11:58,268 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:11:58,271 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:12:33,861 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:12:33,883 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:12:33,885 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:12:54,531 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:12:54,545 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:12:54,547 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:13:25,528 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:13:25,541 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:13:25,543 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:14:22,557 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:14:22,597 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:14:22,613 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:16:58,764 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:16:58,771 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:16:58,774 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:18:23,978 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:18:23,982 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:18:23,984 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:18:55,286 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:18:55,289 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:18:55,292 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:19:11,976 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:19:11,982 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:19:11,985 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:22:04,784 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:22:04,789 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:22:04,793 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:22:58,112 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:22:58,117 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:22:58,120 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:23:28,216 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:23:28,272 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:23:28,287 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:23:40,051 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:23:40,056 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:23:40,059 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:24:16,994 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:24:16,998 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:24:17,001 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 15:27:54,456 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 15:27:54,466 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 15:27:54,468 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 18:02:07,611 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-08 18:02:27,792 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:02:27,872 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:02:27,891 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 18:35:03,617 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:35:03,653 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:35:03,659 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 18:38:43,248 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:38:43,262 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:38:43,270 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-students-exception-handling\src\test\resources
+2024-09-08 18:51:55,892 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springrestcrud:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\pom.xml.
+2024-09-08 18:51:56,976 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-spring-boot-rest-crud-students-global-exception-handling/src/main/java
+2024-09-08 18:51:56,980 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-spring-boot-rest-crud-students-global-exception-handling/src/main/resources
+2024-09-08 18:51:56,981 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-spring-boot-rest-crud-students-global-exception-handling/src/main/resources
+2024-09-08 18:51:56,982 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-spring-boot-rest-crud-students-global-exception-handling/src/test/java
+2024-09-08 18:51:56,985 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-spring-boot-rest-crud-students-global-exception-handling/src/test/resources
+2024-09-08 18:51:57,148 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-09-08 18:51:58,208 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:51:58,268 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:51:58,277 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:52:53,187 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:52:53,203 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:52:53,210 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:02,411 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:02,421 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:02,425 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:15,343 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:15,348 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:15,352 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:17,551 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:17,568 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:17,574 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:24,222 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:24,226 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:24,229 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:31,174 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:31,178 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:31,181 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-08 18:53:41,767 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-08 18:53:41,771 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-08 18:53:41,774 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\03-spring-boot-rest-crud-students-global-exception-handling\src\test\resources
+2024-09-09 13:31:54,715 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-09 13:32:14,505 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\pom.xml.
+2024-09-09 13:32:15,806 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-spring-boot-rest-crud-employee/src/main/java
+2024-09-09 13:32:15,808 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04-spring-boot-rest-crud-employee/src/main/resources
+2024-09-09 13:32:15,817 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04-spring-boot-rest-crud-employee/src/main/resources
+2024-09-09 13:32:15,823 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-spring-boot-rest-crud-employee/src/test/java
+2024-09-09 13:32:15,824 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04-spring-boot-rest-crud-employee/src/test/resources
+2024-09-09 13:32:16,161 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-09-09 13:32:17,396 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:32:17,411 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:32:17,416 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:34:15,744 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:34:15,750 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:34:15,752 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:34:28,251 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:34:28,255 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:34:28,259 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:34:51,294 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:34:51,299 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:34:51,302 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:35:15,016 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.1+8-16
+2024-09-09 13:35:15,122 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@42a411d2{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7552fa93{STARTED}}
+2024-09-09 13:35:15,124 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-09 13:35:15,157 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@259438f0{HTTP/1.1, (http/1.1)}{127.0.0.1:51857}
+2024-09-09 13:35:15,163 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@483978ee{STARTING}[12.0.9,sto=0] @244580ms
+2024-09-09 13:37:07,996 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:37:08,001 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:37:08,003 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:37:35,603 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:37:35,606 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:37:35,607 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:39:42,402 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:39:42,405 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:39:42,407 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:39:59,834 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:39:59,836 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:39:59,838 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:40:33,043 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:40:33,046 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:40:33,047 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:41:02,812 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:41:02,817 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:41:02,819 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:41:12,216 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:41:12,222 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:41:12,225 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:41:39,531 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:41:39,542 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:41:39,544 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:43:25,301 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:43:25,305 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:43:25,308 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:48:28,543 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:48:28,549 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:48:28,551 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:49:14,456 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:49:14,459 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:49:14,461 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:49:18,102 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@483978ee{STOPPING}[12.0.9,sto=0]
+2024-09-09 13:49:18,107 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@259438f0{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-09-09 13:49:32,578 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-09 13:50:54,675 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:50:54,695 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:50:54,701 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:51:16,246 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:51:16,249 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:51:16,252 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:51:25,606 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:51:25,618 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:51:25,621 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:51:58,574 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:51:58,579 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:51:58,584 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:02,155 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:02,161 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:02,166 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:20,675 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.1+8-16
+2024-09-09 13:52:20,800 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@17a4c071{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@694a8512{STARTED}}
+2024-09-09 13:52:20,801 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-09 13:52:20,841 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@34d96056{HTTP/1.1, (http/1.1)}{127.0.0.1:52402}
+2024-09-09 13:52:20,866 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@580895a8{STARTING}[12.0.9,sto=0] @180764ms
+2024-09-09 13:52:21,961 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:21,963 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:21,965 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:25,174 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:25,178 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:25,181 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:40,559 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:40,562 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:40,564 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:47,065 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:47,070 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:47,073 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:52:54,496 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:52:54,499 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:52:54,501 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:53:14,235 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:53:14,238 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:53:14,241 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:53:33,112 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:53:33,115 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:53:33,117 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:53:42,223 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:53:42,227 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:53:42,228 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:53:47,712 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:53:47,715 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:53:47,717 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:57:42,181 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:57:42,184 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:57:42,186 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:57:44,862 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:57:44,865 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:57:44,867 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:58:34,943 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:58:34,947 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:58:34,949 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:58:36,742 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:58:36,745 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:58:36,747 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:58:50,801 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:58:50,805 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:58:50,808 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:58:54,744 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:58:54,747 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:58:54,749 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 13:58:58,131 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 13:58:58,134 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 13:58:58,136 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:01:13,531 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:01:13,535 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:01:13,536 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:01:16,493 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:01:16,498 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:01:16,500 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:01:29,043 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:01:29,046 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:01:29,048 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:01:35,080 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:01:35,092 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:01:35,094 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:01:52,302 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:01:52,307 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:01:52,310 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:02:05,314 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:02:05,317 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:02:05,318 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:02:28,992 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:02:28,996 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:02:28,998 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:02:33,309 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:02:33,312 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:02:33,313 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:03:12,548 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:03:12,552 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:03:12,555 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:15:43,385 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:15:43,390 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:15:43,392 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:16:54,209 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:16:54,215 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:16:54,217 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:17:03,218 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:17:03,221 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:17:03,223 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:17:06,939 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:17:06,942 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:17:06,944 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:18:09,293 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:18:09,297 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:18:09,299 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:18:34,841 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:18:34,843 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:18:34,845 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:18:48,960 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:18:48,967 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:18:48,969 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:19:13,494 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:19:13,497 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:19:13,499 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:19:37,304 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:19:37,308 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:19:37,312 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:20:47,762 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:20:47,765 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:20:47,767 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:21:12,417 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:21:12,420 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:21:12,421 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:21:17,494 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:21:17,497 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:21:17,498 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:22:23,448 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:22:23,452 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:22:23,454 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:22:26,209 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:22:26,228 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:22:26,234 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:47:54,139 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:47:54,146 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:47:54,153 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:49:22,282 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:49:22,315 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:49:22,324 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 14:54:15,838 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 14:54:15,843 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 14:54:15,848 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:02:36,545 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:02:36,549 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:02:36,555 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:06:06,767 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:06:06,771 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:06:06,774 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:13:23,987 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:13:24,010 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:13:24,017 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:17:08,827 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:17:08,832 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:17:08,834 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:17:52,600 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:17:52,617 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:17:52,623 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:20:03,884 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:20:03,892 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:20:03,895 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:20:14,268 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:20:14,274 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:20:14,278 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:21:16,231 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:21:16,237 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:21:16,242 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:25:30,809 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:25:30,833 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:25:30,844 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:25:32,827 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 15:25:32,852 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 15:25:32,863 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee\src\test\resources
+2024-09-09 15:49:07,422 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@580895a8{STOPPING}[12.0.9,sto=0]
+2024-09-09 15:49:07,427 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@34d96056{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-09-09 19:40:24,906 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-09 19:40:35,268 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\pom.xml.
+2024-09-09 19:40:36,783 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java
+2024-09-09 19:40:36,787 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/resources
+2024-09-09 19:40:36,789 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/resources
+2024-09-09 19:40:36,790 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-spring-boot-rest-crud-employee-with-spring-data-rest/src/test/java
+2024-09-09 19:40:36,791 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05-spring-boot-rest-crud-employee-with-spring-data-rest/src/test/resources
+2024-09-09 19:40:37,009 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-09-09 19:40:38,207 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 19:40:38,240 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:40:38,245 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 19:40:46,091 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 19:40:46,096 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:40:46,099 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 19:40:54,047 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 19:40:54,053 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:40:54,060 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 19:41:47,693 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\pom.xml.
+2024-09-09 19:41:48,243 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3.pom
+2024-09-09 19:41:48,254 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3.pom
+2024-09-09 19:41:48,454 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3.pom
+2024-09-09 19:41:48,458 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3.pom
+2024-09-09 19:41:48,549 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/4.3.3/spring-data-rest-parent-4.3.3.pom
+2024-09-09 19:41:48,568 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/4.3.3/spring-data-rest-parent-4.3.3.pom
+2024-09-09 19:41:48,661 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3.pom
+2024-09-09 19:41:48,667 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3.pom
+2024-09-09 19:41:48,754 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2.pom
+2024-09-09 19:41:48,776 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2.pom
+2024-09-09 19:41:48,881 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.pom
+2024-09-09 19:41:48,884 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.pom
+2024-09-09 19:41:48,975 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.pom
+2024-09-09 19:41:48,979 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.pom
+2024-09-09 19:41:49,059 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/parent/1.19/parent-1.19.pom
+2024-09-09 19:41:49,081 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/parent/1.19/parent-1.19.pom
+2024-09-09 19:41:49,392 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3.jar
+2024-09-09 19:41:49,398 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3.jar
+2024-09-09 19:41:49,474 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3.jar
+2024-09-09 19:41:50,625 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3.jar
+2024-09-09 19:41:50,625 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2024-09-09 19:41:50,818 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2024-09-09 19:41:50,885 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3.jar
+2024-09-09 19:41:50,944 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.jar
+2024-09-09 19:41:50,947 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.jar
+2024-09-09 19:41:51,201 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3.jar
+2024-09-09 19:41:51,645 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2.jar
+2024-09-09 19:41:52,349 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2.jar
+2024-09-09 19:41:52,558 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:41:52,559 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:41:52,562 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 19:41:53,847 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 19:41:53,852 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:41:53,863 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 19:41:53,917 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3-sources.jar
+2024-09-09 19:41:53,927 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.3.3/spring-boot-starter-data-rest-3.3.3-sources.jar
+2024-09-09 19:41:53,932 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-rest:3.3.3
+2024-09-09 19:41:55,217 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3-sources.jar
+2024-09-09 19:41:55,797 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.3.3/spring-data-rest-webmvc-4.3.3-sources.jar
+2024-09-09 19:41:55,800 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:4.3.3
+2024-09-09 19:41:56,115 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3-sources.jar
+2024-09-09 19:41:56,319 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.3.3/spring-data-rest-core-4.3.3-sources.jar
+2024-09-09 19:41:56,322 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:4.3.3
+2024-09-09 19:41:56,628 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2-sources.jar
+2024-09-09 19:41:57,022 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.3.2/spring-hateoas-2.3.2-sources.jar
+2024-09-09 19:41:57,025 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:2.3.2
+2024-09-09 19:41:57,332 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2024-09-09 19:41:57,363 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2024-09-09 19:41:57,367 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:3.0.0
+2024-09-09 19:41:57,645 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3-sources.jar
+2024-09-09 19:41:57,652 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3-sources.jar
+2024-09-09 19:41:57,658 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.3
+2024-09-09 19:42:36,326 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 19:42:36,330 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 19:42:36,334 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\05-spring-boot-rest-crud-employee-with-spring-data-rest\src\test\resources
+2024-09-09 20:11:48,053 [Worker-49: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\pom.xml.
+2024-09-09 20:11:49,070 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/main/java
+2024-09-09 20:11:49,072 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/main/resources
+2024-09-09 20:11:49,075 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/main/resources
+2024-09-09 20:11:49,075 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/test/java
+2024-09-09 20:11:49,078 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/test/resources
+2024-09-09 20:11:49,478 [Worker-49: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-09-09 20:11:50,299 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:11:50,345 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:11:50,358 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:12:11,483 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:12:11,488 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:12:11,490 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:12:39,898 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:12:39,903 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:12:39,904 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:12:45,653 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:12:45,705 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:12:45,725 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:13:10,402 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:13:10,409 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:13:10,410 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:13:14,500 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:13:14,505 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:13:14,507 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-09 20:13:45,827 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-09 20:13:45,831 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-09 20:13:45,834 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-18 12:10:48,360 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-18 12:11:03,872 [Worker-21: Build] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-18 12:11:03,887 [Worker-21: Build] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-18 12:11:03,891 [Worker-21: Build] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\furka\Desktop\JAVA\İLERİ JAVA\dev-spring-boot\04-spring-boot-rest-crud\06-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting\src\test\resources
+2024-09-18 12:13:59,837 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.1+8-16
+2024-09-18 12:13:59,976 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4011073f{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@6fac0bd7{STARTED}}
+2024-09-18 12:13:59,977 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-18 12:14:00,008 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@352697b{HTTP/1.1, (http/1.1)}{127.0.0.1:50973}
+2024-09-18 12:14:00,026 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7d87cbe5{STARTING}[12.0.9,sto=0] @235123ms
+2024-09-18 12:19:43,641 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7d87cbe5{STOPPING}[12.0.9,sto=0]
+2024-09-18 12:19:43,646 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@352697b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-09-18 12:55:07,753 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

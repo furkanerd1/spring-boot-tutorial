@@ -1,0 +1,24 @@
+package com.springboot.springcore.rest;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springboot.springcore.common.Coach;
+
+@RestController
+public class DemoController {
+
+ 
+	private Coach myCoach;
+	
+
+	
+	@GetMapping("/dailyworkout")
+	public String getDailyWorkOut() {
+		return this.myCoach.getDailyWorkout();
+	}
+
+
+
+	
+}

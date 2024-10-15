@@ -1,0 +1,19 @@
+package com.example.cruddemo.dao;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.cruddemo.entity.Student;
+
+import lombok.AllArgsConstructor;
+
+@Repository
+@AllArgsConstructor
+public class StudentDAOImpl implements StudentDAO {
+
+	
+	@Override
+	public void save(Student student) {
+
+	}
+
+}

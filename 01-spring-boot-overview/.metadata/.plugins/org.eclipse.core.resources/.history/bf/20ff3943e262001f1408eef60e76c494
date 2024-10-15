@@ -1,0 +1,5 @@
+spring.application.name=myapp
+
+
+#props
+coach.name=Furkan

@@ -1,0 +1,5 @@
+package com.springboot.springcore.common;
+
+public class baseballCoach {
+
+}

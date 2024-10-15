@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>SHOW STUDENT</title>
+</head>
+<body>
+
+The student is :  <span class="funny" th:text="${student.firstName} + ' ' + ${student.lastName}" />
+<br>
+Country is : <span class="funny" th:text="${student.country}" />
+<br>
+Favorite Programming Language : <span class="funny" th:text="${student.favoriteLanguage}" />
+<br>
+Favorite Operating System : <span class="funny" th:text="${student.favoriteSystems}" />
+<br>
+
+
+</body>
+</html>

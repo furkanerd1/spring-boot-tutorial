@@ -1,0 +1,6 @@
+spring.application.name=springcore
+server.port=7070
+
+spring.main.lazy-initializiaton=true
+#all beans are lazy ... no beans created until needed
+# (Including our DemoController)

@@ -1,0 +1,7 @@
+package com.springboot.springcore.common.copy;
+
+public interface Coach {
+	
+	String getDailyWorkout();
+
+}
